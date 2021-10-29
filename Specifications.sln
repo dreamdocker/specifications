@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zerodo.Specifications.EfCore", "Zerodo.Specifications.EntityFrameworkCore\Zerodo.Specifications.EfCore.csproj", "{2412ED1D-E7C4-4514-A99F-DC370AA6D479}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zerodo.Specifications.Sample", "Zerodo.Specifications.Sample\Zerodo.Specifications.Sample.csproj", "{52E5ABFE-2246-4266-A6DF-99F098A07FE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zerodo.Specifications", "Zerodo.Specifications\Zerodo.Specifications.csproj", "{C421569E-CAFD-4CDF-8FB4-BDB4717BA600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2412ED1D-E7C4-4514-A99F-DC370AA6D479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2412ED1D-E7C4-4514-A99F-DC370AA6D479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2412ED1D-E7C4-4514-A99F-DC370AA6D479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2412ED1D-E7C4-4514-A99F-DC370AA6D479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E5ABFE-2246-4266-A6DF-99F098A07FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E5ABFE-2246-4266-A6DF-99F098A07FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E5ABFE-2246-4266-A6DF-99F098A07FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E5ABFE-2246-4266-A6DF-99F098A07FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C421569E-CAFD-4CDF-8FB4-BDB4717BA600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C421569E-CAFD-4CDF-8FB4-BDB4717BA600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C421569E-CAFD-4CDF-8FB4-BDB4717BA600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C421569E-CAFD-4CDF-8FB4-BDB4717BA600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3397BE84-1F12-4E77-85D7-110AD68EFCD5}
+	EndGlobalSection
+EndGlobal
